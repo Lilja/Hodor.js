@@ -1,22 +1,20 @@
+function Hodor()
+{
 
-	function Hodor()
+}
+
+Hodor.Hodor = Hodor.prototype
+{
+
+}
+Hodor.Hodor.Hodor = function(Hodor)
+{
+	if (Hodor == "Hodor")
 	{
-
+		return "Hodor!";
 	}
-
-	Hodor.Hodor = Hodor.prototype
+	else
 	{
-
+		return "Hodor?";
 	}
-	Hodor.Hodor.Hodor = function(Hodor)
-	{
-		if (Hodor == "Hodor")
-		{
-			return "Hodor!";
-		}
-		else
-		{
-			return "Hodor?";
-		}
-	}
-
+}

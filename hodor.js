@@ -12,7 +12,11 @@
 	{
 		if (Hodor == "Hodor")
 		{
-			return "Hodor";
+			return "Hodor!";
+		}
+		else
+		{
+			return "Hodor?";
 		}
 	}
 
